@@ -1,0 +1,3 @@
+interface Planteeterne {
+  void beskytt();
+}

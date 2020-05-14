@@ -1,0 +1,3 @@
+class Bjorn implements Rovdyr {
+
+}
